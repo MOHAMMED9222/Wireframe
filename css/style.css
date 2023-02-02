@@ -48,6 +48,11 @@ h3 {
   height: 30px;
 
 }
+
+section {
+  height: 320px;
+  overflow: auto;
+}
 /* }
 
 ul {
